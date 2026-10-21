@@ -57,8 +57,8 @@ const Board = ({
         <Deck 
           drawCards={drawCards}
           positioning="absolute"
-          x={48}
-          y={740} />
+          x={32}
+          y={720} />
       </ContainerBody>
     </Container>
   );

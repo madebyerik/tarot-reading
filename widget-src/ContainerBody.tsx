@@ -15,7 +15,7 @@ const ContainerBody = ({
       strokeWidth={style.strokeWidth.medium}
       stroke={style.color.black}
       strokeAlign="center"
-      padding={style.padding.large}
+      padding={style.padding.medium}
       {...props}>
       {...children}
     </AutoLayout>

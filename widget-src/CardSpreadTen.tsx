@@ -32,7 +32,7 @@ const CardSpreadTen = ({
       <AutoLayout
         positioning="absolute"
         direction="vertical"
-        x={1240 - CARD_WIDTH}
+        x={1252 - CARD_WIDTH}
         y={0}>
         {
           staff.map((i) => (
